@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "The Rise of JavaScript Frameworks",
+      "cover": "https://i.ibb.co.com/pPz7jpf/1.jpg",
+      "profile_img": "https://i.ibb.co.com/p4Z3KxR/boy1.png",
+      "profile_name": "John Doe",
+      "date": "2024-10-21",
+      "reading_time": 7,
+      "hashtag": ["#JavaScript", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "title": "Understanding Async Programming",
+      "cover": "https://i.ibb.co.com/mzTT3RF/2.png",
+      "profile_img": "https://i.ibb.co.com/7RDpNgq/boy2.jpg",
+      "profile_name": "Jane Smith",
+      "date": "2024-10-19",
+      "reading_time": 5,
+      "hashtag": ["#Async", "#Programming"]
+    },
+    {
+      "id": 3,
+      "title": "Mastering CSS Grid",
+      "cover": "https://i.ibb.co.com/rGNFW4r/3.png",
+      "profile_img": "https://i.ibb.co.com/pKNCR1n/girl1.jpg",
+      "profile_name": "Chris Lee",
+      "date": "2024-10-18",
+      "reading_time": 8,
+      "hashtag": ["#CSS", "#Design"]
+    },
+    {
+      "id": 4,
+      "title": "React vs Vue: A 2024 Comparison",
+      "cover": "https://i.ibb.co.com/X8LD3tq/4.jpg",
+      "profile_img": "https://i.ibb.co.com/KznCcm8/girl2.jpg",
+      "profile_name": "Alex Taylor",
+      "date": "2024-10-17",
+      "reading_time": 10,
+      "hashtag": ["#React", "#Vue"]
+    }
+  ]
+  
